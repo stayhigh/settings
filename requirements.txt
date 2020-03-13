@@ -149,7 +149,7 @@ pyquery==1.2.9
 pystun==0.1.0
 pytest==2.7.1
 python-dateutil==2.2
-python-gnupg==0.3.7
+python-gnupg==0.4.4
 python-Levenshtein==0.10.2
 python-qt5==0.1.8
 pytidylib==0.2.4
