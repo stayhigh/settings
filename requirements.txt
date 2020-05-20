@@ -57,7 +57,7 @@ howdoi==1.1.9
 html2rest==0.2.2
 html5lib==0.999
 httpcode==0.5
-httplib2==0.9.2
+httplib2==0.18.0
 idna==2.1
 incremental==16.10.1
 ipaddr==2.1.11
