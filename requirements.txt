@@ -164,7 +164,7 @@ reportlab==3.2.0
 requests==2.13.0
 requests-cache==0.4.12
 rpy2==2.5.4
-rsa==3.4.2
+rsa==4.1
 ## FIXME: could not find svn URL in dependency_links for this package:
 rst2pdf===0.93.dev-r0
 scikit-learn==0.18.1
