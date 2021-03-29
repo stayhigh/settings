@@ -134,7 +134,7 @@ pycurl==7.19.5.1
 PyDispatcher==2.0.5
 pyflakes==0.8.1
 pyftpdlib==1.5.0
-Pygments==2.0.2
+Pygments==2.7.4
 pygpgme==0.3
 pylint==1.4.4
 pylzma==0.4.6
