@@ -113,7 +113,7 @@ pdfrw==0.2
 pep8==1.7.0
 pies==2.6.5
 pies2overrides==2.6.5
-Pillow==2.8.1
+Pillow==8.2.0
 pipreqs==0.4.6
 pluggy==0.3.0
 ply==3.8
