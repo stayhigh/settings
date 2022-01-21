@@ -65,7 +65,7 @@ ipaddress==1.0.17
 iptools==0.6.1
 ipwhois==0.11.1
 IPy==0.83
-ipython==3.2.1
+ipython==7.16.3
 isodate==0.5.1
 isort==3.9.6
 itsdangerous==0.24
