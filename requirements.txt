@@ -195,7 +195,7 @@ Terminator==0.97
 tornado==4.2.1
 tox==2.0.1
 traceback2==1.4.0
-Twisted==16.6.0
+Twisted==22.4.0
 unittest2==1.1.0
 uritemplate==3.0.0
 urllib3==1.10.4
