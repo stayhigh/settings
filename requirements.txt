@@ -170,7 +170,7 @@ rst2pdf===0.93.dev-r0
 scikit-learn==0.18.1
 scikits.samplerate==0.3.3
 scipy==0.15.1
-Scrapy==1.2.2
+Scrapy==2.6.1
 selenium==3.0.2
 service-identity==16.0.0
 sh==1.11
