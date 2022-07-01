@@ -102,7 +102,7 @@ numpy==1.10.4
 numpydoc==0.5
 oauth2client==4.0.0
 oct2py==3.0.0
-openpyxl==2.1.4
+openpyxl==2.4.2
 pandas==0.16.0
 pandoc==1.0.0a8
 parsel==1.1.0
