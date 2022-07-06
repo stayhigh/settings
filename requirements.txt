@@ -55,7 +55,7 @@ gTTS-token==1.1.1
 gunicorn==19.6.0
 howdoi==1.1.9
 html2rest==0.2.2
-html5lib==0.999
+html5lib==0.999999999
 httpcode==0.5
 httplib2==0.9.2
 idna==2.1
