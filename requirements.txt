@@ -81,7 +81,7 @@ LinkChecker==9.3
 logilab-common==1.1.0
 logutils==0.3.3
 lpthw.web==1.1
-lxml==3.7.0
+lxml==4.9.1
 MarkupSafe==0.23
 matplotlib==1.4.2
 mccabe==0.3
